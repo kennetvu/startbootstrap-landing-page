@@ -1,4 +1,5 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+# My own homepage - [vuong.it](http://vuong.it)
+Forked from [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
 [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
@@ -8,6 +9,12 @@ To begin using this template, choose one of the following options to get started
 * [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
 * Fork the repo
+
+## Http-server https://github.com/indexzero/http-server
+`
+http-server .
+open http://localhost:8080
+`
 
 ## Bugs and Issues
 
