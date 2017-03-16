@@ -16,6 +16,11 @@ http-server .
 open http://localhost:8080
 `
 
+## Docker
+`
+docker-compose up -d
+`
+
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
