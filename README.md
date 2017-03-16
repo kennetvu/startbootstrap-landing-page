@@ -16,10 +16,17 @@ http-server .
 open http://localhost:8080
 `
 
-## Docker
+## Docker-compose
 `
 docker-compose up -d
 `
+
+## Docker
+`
+docker build -t vuong.it .
+docker run --name vuong.it -p 80:80 -v ./src/:/usr/share/nginx/html -d vuong.it
+`
+
 
 ## Bugs and Issues
 
