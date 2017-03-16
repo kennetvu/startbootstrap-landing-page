@@ -18,7 +18,9 @@ open http://localhost:8080
 
 ## Docker-compose
 `
+docker-compose build
 docker-compose up -d
+docker-compose down
 `
 
 ## Docker
