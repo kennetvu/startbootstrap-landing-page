@@ -11,23 +11,23 @@ To begin using this template, choose one of the following options to get started
 * Fork the repo
 
 ## Http-server https://github.com/indexzero/http-server
-`
+```
 http-server .
 open http://localhost:8080
-`
+```
 
 ## Docker-compose
-`
+```
 docker-compose build
 docker-compose up -d
 docker-compose down
-`
+```
 
 ## Docker
-`
+```
 docker build -t vuong.it .
 docker run --name vuong.it -p 80:80 -v ./src/:/usr/share/nginx/html -d vuong.it
-`
+```
 
 
 ## Bugs and Issues
