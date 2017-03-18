@@ -26,7 +26,7 @@ docker-compose down
 ## Docker
 ```
 docker build -t vuong.it .
-docker run --name vuong.it -p 80:80 -v ./src/:/usr/share/nginx/html -d vuong.it
+docker run --name vuong.it -p 8000:80 -v ./src/:/usr/share/nginx/html -d vuong.it
 ```
 
 
